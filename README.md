@@ -79,6 +79,10 @@ I'm a Computer Engineering student passionate about building **robust, scalable,
 
 ---
 
+## Current project
+- 💼 Ges'Stock | [launch landing page (https://launch-gesstock.netlify.app/)]
+---
+
 ## 🌐 Portfolio & Content
 
 | | |
