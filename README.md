@@ -79,8 +79,9 @@ I'm a Computer Engineering student passionate about building **robust, scalable,
 
 ---
 
-## 🧪 Current project
+## 🧪 Currents projects
 - 💼 Ges'Stock | [launch landing page](https://launch-gesstock.netlify.app)
+- 💼 The Beginning | [http://thebeginning.merveilletsafack.dev](http://thebeginning.merveilletsafack.dev)
 ---
 
 ## 🌐 Portfolio & Content
@@ -89,6 +90,7 @@ I'm a Computer Engineering student passionate about building **robust, scalable,
 |---|---|
 | 💼 **Portfolio** | [merveilletsafacktech.netlify.app](https://merveilletsafacktech.netlify.app) |
 | ✍️ **Blog** | [merveilletsafackteck.netlify.app](https://merveilletsafacktech.netlify.app) |
+| 💼 **The Begining** | [http://thebeginning.merveilletsafack.dev](http://thebeginning.merveilletsafack.dev) |
 
 ---
 
